@@ -28,7 +28,7 @@ jsproxy_config({
     'defalut2': {
       label: '第3通道',
       lines: {
-        '333.333.workers.dev': 1,
+        'https://tight-mountain-96fe.juyuange.workers.dev': 1,
       }
     },
   
@@ -36,7 +36,7 @@ jsproxy_config({
       'defalut3': {
       label: '第4通道',
       lines: {
-        '444.444.workers.dev': 1,
+        'https://tight-mountain-96fe.juyuange.workers.dev': 1,
       },
     },
     
